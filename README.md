@@ -4,8 +4,8 @@
 
 ## 🚀 Spesifikasi Utama  
 - **Total Fitur**: 100±
-- **Tipe**: Plugins ESM  
-- **Fungsi**: Virtual Assistant  
+- **Type**: Plugins ESM  
+- **Functions**: Virtual Assistant  
 - **Library**: [`adiwajshing/baileys`](https://github.com/adiwajshing/Baileys)  
 - **Scrapping**: Yes  
 - **Button**: No  
@@ -22,11 +22,3 @@
 | 📖 **Islamic**    | Al-Qur'an, Hadis, Jadwal Sholat                     |
 | 🔞 **NSFW**       | (Hanya untuk pengguna premium)                      |
 | 🎵 **YouTube**    | YouTube Play, YTMP3, YTMP4                          |
-
-## 📌 Cara Install  
-Pastikan kamu memiliki **Node.js 18+** dan **Git** terinstall di perangkatmu.  
-
-```sh
-git clone https://github.com/username/tensoura-synth.git
-cd tensoura-synth
-npm install
