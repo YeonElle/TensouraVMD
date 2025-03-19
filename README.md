@@ -3,12 +3,12 @@
 **Tensoura Synth** adalah sistem sintesis canggih yang dirancang untuk mengotomatisasi berbagai tugas, menghadirkan **engine RPG interaktif**, serta memberikan kemudahan bagi pengguna dengan fitur luas. Dengan **respon cepat**, **analisa konten**, dan **fleksibilitas tinggi**, bot ini dapat dikustomisasi sesuai kebutuhan.
 
 ## 🚀 Spesifikasi Utama  
-- **Total Fitur**: 100±
-- **Type**: Plugins ESM  
-- **Functions**: Virtual Assistant  
-- **Library**: [`adiwajshing/baileys`](https://github.com/adiwajshing/Baileys)  
-- **Scrapping**: Yes  
-- **Button**: No  
+⌕ **Total Fitur**: 100±
+⌕ **Type**: Plugins ESM  
+⌕ **Functions**: Virtual Assistant  
+⌕ **Library**: [`adiwajshing/baileys`](https://github.com/adiwajshing/Baileys)  
+⌕ **Scrapping**: Yes  
+⌕ **Button**: No  
 
 ## 🛠️ Fitur Unggulan  
 | Kategori          | Fitur                                                |
