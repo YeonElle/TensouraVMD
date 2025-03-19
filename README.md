@@ -1,21 +1,22 @@
 # ⚡ Tensoura Synth  
 
-**Tensoura Synth** adalah sistem sintesis canggih yang dirancang untuk mengotomatisasi berbagai tugas, menghadirkan **engine RPG interaktif**, serta memberikan kemudahan bagi pengguna dengan fitur luas. Memberikan **respon cepat**, **analisa konten**, dan dapat dikustomisasi sesuai kebutuhan.
+**Tensoura Synth** adalah sistem sintesis canggih yang dirancang untuk mengotomatisasi berbagai tugas, menghadirkan **engine RPG interaktif**, serta memberikan kemudahan bagi pengguna dengan fitur luas. Dengan **respon cepat**, **analisa konten**, dan **fleksibilitas tinggi**, bot ini dapat dikustomisasi sesuai kebutuhan.
 
 ## 🚀 Spesifikasi Utama  
-- **Total Fitur**: 499+  
+- **Total Fitur**: 100±
 - **Tipe**: Plugins ESM  
 - **Fungsi**: Virtual Assistant  
-- **Library**: [`@WhiskeySockets/6.6.0`](https://github.com/WhiskeySockets)  
+- **Library**: [`adiwajshing/baileys`](https://github.com/adiwajshing/Baileys)  
 - **Scrapping**: Yes  
 - **Button**: No  
 
 ## 🛠️ Fitur Unggulan  
 | Kategori          | Fitur                                                |
 |------------------|------------------------------------------------------|
-| 📥 **Downloader** | IG, TikTok, Twitter, YouTube, Spotify, Facebook     |
+| 📥 **Download** | IG, TikTok, Twitter, YouTube, Spotify, Facebook     |
 | 🔎 **Searching**  | Internet Scraper, OpenAI (GPT, Gemini, BlackBox)    |
 | 🎮 **Games**      | RPG Games, Game Questions                           |
+| ⚔ **RPG Mode**   | Dungeon, Leveling, Leaderboard, Bank RPG            |
 | 🛡 **Proteksi**   | Group Protection, Anti-Spam, Auto Moderation       |
 | 📌 **Tools**      | Stalker Medsos, Sticker Maker, Quotes Generator     |
 | 📖 **Islamic**    | Al-Qur'an, Hadis, Jadwal Sholat                     |
