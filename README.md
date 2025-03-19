@@ -13,12 +13,12 @@
 ## 🛠️ Fitur Unggulan  
 | Kategori            | Fitur                                                |
 |--------------------|------------------------------------------------------|
-| 📥 **Download**     | IG, TikTok, Twitter, YouTube, Spotify, Facebook     |
-| 🔎 **Searching**    | Internet Scraper, OpenAI (GPT, Gemini, BlackBox)    |
-| 🎮 **Games**        | RPG Games, Game Questions                           |
-| ⚔ **RPG Mode**     | Dungeon, Leveling, Leaderboard, Bank RPG            |
-| 🛡 **Proteksi**     | Group Protection, Anti-Spam, Auto Moderation       |
-| 📌 **Tools**        | Stalker Medsos, Sticker Maker, Quotes Generator     |
-| 📖 **Islamic**      | Al-Qur'an, Hadis, Jadwal Sholat                     |
-| 🔞 **NSFW**         | (Hanya untuk pengguna premium)                      |
-| 🎵 **YouTube**      | YouTube Play, YTMP3, YTMP4                          |
+| 📥**Download**     | IG, TikTok, Twitter, YouTube, Spotify, Facebook     |
+| 🔎**Searching**    | Internet Scraper, OpenAI (GPT, Gemini, BlackBox)    |
+| 🎮**Games**        | RPG Games, Game Questions                           |
+| ⚔**RPG Mode**     | Dungeon, Leveling, Leaderboard, Bank RPG            |
+| 🛡**Proteksi**     | Group Protection, Anti-Spam, Auto Moderation       |
+| 📌**Tools**        | Stalker Medsos, Sticker Maker, Quotes Generator     |
+| 📖**Islamic**      | Al-Qur'an, Hadis, Jadwal Sholat                     |
+| 🔞**NSFW**         | (Hanya untuk pengguna premium)                      |
+| 🎵**YouTube**      | YouTube Play, YTMP3, YTMP4                          |
